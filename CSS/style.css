@@ -1,0 +1,160 @@
+@font-face {
+    font-family: "Enfant3";
+    src: url("../Font/Enfant3.otf");
+    }
+    
+    @font-face {
+        font-family: "Ministère";
+        src: url("../Font/SpartanMB-SemiBold.otf");
+     }
+    .all{
+      margin: 60px;
+    }
+    
+    .main{
+       margin: 100px;
+    }
+    
+    img{
+       width: 20%;
+       float: left;
+    }
+    
+    .agir{
+       padding: 0%;
+       margin-left: 0%;
+       padding: 30px;
+       margin-right: 60px;
+       text-align: right;
+       font-size: 30px;
+       font-family: "Enfant3";
+    }
+    
+    .titre{
+       margin-top: 250px;
+       text-align: center;
+       font-size: 70px;
+       font-family: "Ministère";
+    }
+    
+    .para{
+      text-align: center;
+      padding-top: 40px;
+      margin-right: 150px;
+      margin-left: 150px;
+      font-size: 60px;
+      font-family: "Enfant3";
+    }
+    
+    .ecole{
+       text-align: right;
+      margin: 0%;
+      padding: 0%;
+      font-size: 20px;
+    }
+    
+    .img2{
+       flex: 0 0 auto;
+       width: 800px;
+       height: auto;
+       padding-top: 40px;
+    }
+    
+    .container{
+       display: flex;
+       align-items: center;
+    }
+    
+    .para2{
+       text-align: left;
+       margin-right: 100px;
+       margin-left: 80px;
+       font-size: 40px;
+       font-family: "Ministère";
+    }
+
+    .para3{
+        text-align: right;
+        margin-right: 100px;
+        margin-left: 80px;
+        font-size: 40px;
+        font-family: "Ministère";
+    }
+
+    .container2{
+        display: flex;
+        align-items: center;
+     }
+
+     .img3{
+        flex: 0 0 auto;
+        width: 800px;
+        height: auto;
+        padding-top: 40px;
+     }
+
+     .paraenfant{
+      text-align: right;
+        margin-right: 100px;
+        margin-left: 80px;
+        font-size: 30px;
+        font-family: "Ministère";
+        padding:140px;
+     }
+
+     .para4{
+        text-align: center;
+        margin-top: 50px;
+        margin-right: 100px;
+        margin-left: 80px;
+        font-size: 50px;
+        font-family: "Enfant3";
+     }
+
+     .harcelement{
+        display: inline-block;
+     }
+
+     .img4{
+            width: 540px;
+            padding-top: 190px;
+            padding-left: 90px;
+     }
+
+     .img5{
+        padding-top: 190px;
+        padding-left: 90px;
+     }
+
+     .para5{
+      text-align: left;
+      margin-right: 50px;
+      margin-left: 80px;
+      font-size: 30px;
+      font-family: "Ministère";
+     }
+
+     .para6{
+      text-align: center;
+      margin-top: 90px;
+      margin-right: 100px;
+      margin-left: 80px;
+      font-size: 50px;
+      font-family: "Enfant3";
+     }
+
+     .img6{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding-top: 60px;
+      margin-right: 100px;
+     }
+
+     .paraviolance{
+      margin-top: 190px;
+      margin-right: 80px;
+      margin-left: 60px;
+      font-size: 30px;
+      font-family: "Ministère";
+     }
